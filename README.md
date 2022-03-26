@@ -7,7 +7,7 @@ Project ini disediakan dalam bahasa melayu.</p>
 <div>
 <pre>
 git clone https://github.com/Mika259/kira_peratus
-
+cd kira_peratus
 python peratus_pep.py
 </pre>
 <div>
