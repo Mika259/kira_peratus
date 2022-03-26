@@ -1,6 +1,16 @@
 #setelah sekian sekejap je buat :)
 #DanielHakim : saya dah susun code² ini supaya kelihatan kemas :]
 
+banner = """
+_  ___           _  ____  __            _
+| |/ (_)_ __ __ _(_)/ /  \/  | __ _ _ __| | __
+| ' /| | '__/ _` | / /| |\/| |/ _` | '__| |/ /
+| . \| | | | (_| |/ /_| |  | | (_| | |  |   <
+|_|\_\_|_|  \__,_/_/(_)_|  |_|\__,_|_|  |_|\_]
+Author :Mika259
+Github :https://github.com/Mika259
+
+"""
 print("Kira Peratus Markah anda !")
 import time
 time.sleep(1)
@@ -22,7 +32,7 @@ print("Tunggu sebentar..")
 time.sleep(2)
 
 print("Hasil Tambah Kesemua Soalan :")
-print(s1+s2+s3+s4+s5+s6+s7+s8)
+print(mr)
 time.sleep(0.5)
 
 per = int(input("per berapa markah kesemuanya : "))
@@ -36,3 +46,6 @@ jw = mr/per
 pr = jw*100
 
 print("Markah Peratus :",str(round(pr))+"%")
+time.sleep(0.3)
+print("Terima Kasih menggunakan tool saya :)
+Nanti saya update lagi :)")
