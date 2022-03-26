@@ -11,6 +11,7 @@ Author :Mika259
 Github :https://github.com/Mika259
 
 """
+print(banner)
 print("Kira Peratus Markah anda !")
 import time
 time.sleep(1)
