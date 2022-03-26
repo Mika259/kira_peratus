@@ -47,5 +47,5 @@ jw = mr/per
 pr = jw*100
 
 print("Markah Peratus :",str(round(pr))+"%")
-time.sleep(0.3)
+time.sleep(2)
 print("Terima Kasih menggunakan tool saya :)")
