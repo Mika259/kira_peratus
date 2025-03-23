@@ -1,5 +1,4 @@
 #setelah sekian sekejap je buat :)
-#DanielHakim : saya dah susun code² ini supaya kelihatan kemas :]
 
 banner = """
 _  ___           _  ____  __            _
